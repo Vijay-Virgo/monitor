@@ -1,0 +1,11 @@
+folium
+geopandas
+matplotlib
+pandas
+requests
+streamlit
+branca
+streamlit-folium
+python-dotenv
+plotly
+hopsworks
